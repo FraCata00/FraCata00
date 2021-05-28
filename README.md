@@ -5,7 +5,7 @@ Welcome to my GitHub profile page
 
 I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud ☁ :)
 
-# Languages👨🏻‍💻
+## Languages👨🏻‍💻
 - ASP.NET Core MVC Framewrok (Microsoft)
 - Java
 - C#
@@ -18,7 +18,6 @@ I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud �
 - Node.js
 - .json
 <br />
-
 ## Platform that I use (Software/Framework/IDE)
 - Visual Studio
 - Visual Studio Code
@@ -34,10 +33,10 @@ I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud �
 - Kubernetes
 <br />
 
-# Linux
+## Linux
 I've worked for 7 years only with Ubuntu distro, from GUI (Graphic User Interface) and CLI (Command Line Interface), from high-school to today, so I prefer to use Linux distro than Windows 10, but I use always both because there are many software that Windows 10 not support... Linux IS SO BETTER!!
 
-# Distro That I prefer
+## Distro That I prefer
 [Pop Os](https://pop.system76.com/)
 <br />
 [Manajro (Arch Based OS)](https://manjaro.org/)
