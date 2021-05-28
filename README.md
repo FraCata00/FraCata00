@@ -17,7 +17,6 @@ I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud â˜
 - BASH
 - Node.js
 - .json
-<br />
 
 ## Platform that I use (Software/Framework/IDE)
 - Visual Studio
@@ -32,7 +31,6 @@ I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud â˜
 - Servlet Java
 - Docker Container
 - Kubernetes
-<br />
 
 ## Linux
 I've worked for 7 years only with Ubuntu distro, from GUI (Graphic User Interface) and CLI (Command Line Interface), from high-school to today, so I prefer to use Linux distro than Windows 10, but I use always both because there are many software that Windows 10 not support... Linux IS SO BETTER!!
