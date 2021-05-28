@@ -18,6 +18,7 @@ I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud â˜
 - Node.js
 - .json
 <br />
+
 ## Platform that I use (Software/Framework/IDE)
 - Visual Studio
 - Visual Studio Code
