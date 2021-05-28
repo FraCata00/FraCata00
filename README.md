@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-Welcome to my GitHub profile page
+Welcome to my GitHub profile page 🤞
 <img width="20%" height="20%" align="right" src="Img/ascii_FraCata00.png"/>
+<img width="20%" height="20%" align="left" src="Img/matrix.gif"/>
 
-I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud ☁ :)
+I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud ☁
+### Read be carefully 😜
 
 ## Languages👨🏻‍💻
 - ASP.NET Core MVC Framewrok (Microsoft)
