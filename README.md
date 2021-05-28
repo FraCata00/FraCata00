@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my GitHub profile page
-<img width="40%" height="40%" align="right" src="https://raw.githubusercontent.com/FraCata00/FraCata00/master/Img/ascii_FraCata00.png"/>
+<img width="40%" height="40%" align="right" src="https://raw.githubusercontent.com/FraCata00/FraCata00/Img/ascii_FraCata00.png"/>
 
 I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud ☁ :)
 
