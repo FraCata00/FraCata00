@@ -19,6 +19,7 @@ I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud â˜
 - BASH
 - Node.js
 - .json
+- Node.js Express
 
 ## Platform that I use (Software/Framework/IDE)
 - Visual Studio
@@ -27,6 +28,7 @@ I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud â˜
 - ATOM.io
 - SQL Server Management Studio (SSMS)
 - MySQL
+- MongoDB Atlas
 - Apache
 - Tomcat
 - NODE-RED
