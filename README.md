@@ -8,6 +8,7 @@ I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud �
 ### Read be carefully 😜
 
 ## Languages👨🏻‍💻
+- Python and Django-Rest-Framework
 - ASP.NET Core MVC Framewrok (Microsoft)
 - Java
 - C#
@@ -16,14 +17,15 @@ I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud �
 - Razor HTML (cshtml)
 - CSS
 - MySQL (SQL)
-- BASH
 - Node.js
-- .json
 - Node.js Express
 
 ## Platform that I use (Software/Framework/IDE)
 - Visual Studio
 - Visual Studio Code
+- Docker Container
+- Kubernetes
+- DRF
 - Eclipse IDE Java
 - ATOM.io
 - SQL Server Management Studio (SSMS)
@@ -32,9 +34,6 @@ I'm a programmer, Cloud IT Specialist, so... yes.. I'm going to live in cloud �
 - Apache
 - Tomcat
 - NODE-RED
-- Servlet Java
-- Docker Container
-- Kubernetes
 
 ## Linux
 I've worked for 7 years only with Ubuntu distro, from GUI (Graphic User Interface) and CLI (Command Line Interface), from high-school to today, so I prefer to use Linux distro than Windows 10, but I use always both because there are many software that Windows 10 not support... Linux IS SO BETTER!!
@@ -49,8 +48,8 @@ I've worked for 7 years only with Ubuntu distro, from GUI (Graphic User Interfac
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ICT ITS Piemonte Cloud IT Specialist
-- 🌱 I’m currently learning so much of the Cloud Arch, software Cloud, etc...
+- 🔭 I’m currently working on [@spinforward](https://www.spinforward.it)
+- 🌱 I’m currently learning so much of the DRF, Django and more and more...
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
