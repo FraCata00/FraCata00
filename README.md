@@ -4,7 +4,7 @@ Welcome to my GitHub profile page 🤞
 <img width="20%" height="20%" align="right" src="Img/ascii_FraCata00.png"/>
 <img width="20%" height="20%" align="left" src="Img/matrix.gif"/>
 
-I'm a software developer, Python Developer <a href="#macropower-tech">
+I'm a Python Developer <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
 ### Read be carefully 😜
