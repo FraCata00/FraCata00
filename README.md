@@ -55,10 +55,4 @@ Backend system for managing Italian geographical data using official ISTAT datas
 
 ---
 
-## 🤝 Let's Connect
-
-📫 Reach me on LinkedIn  
-
----
-
 ⭐️ Always building, always improving
