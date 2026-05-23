@@ -1,9 +1,4 @@
-<!-- ============================================ -->
-<!--                   HEADER                     -->
-<!-- ============================================ -->
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:d65d0e,100:fabd2f&height=200&section=header&text=Francesco%20Cataldo&fontSize=48&fontColor=ebdbb2&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Python%20%7C%20Django%20%7C%20Vue&descSize=18&descColor=ebdbb2&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
@@ -17,7 +12,6 @@
 <a href="https://www.linkedin.com/in/francesco-cataldo/"><img src="https://img.shields.io/badge/LinkedIn-Francesco%20Cataldo-458588?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 &nbsp;
 <a href="https://fracatadev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-fracatadev-98971a?style=flat-square&logo=netlify&logoColor=white" alt="portfolio"/></a>
-
 </div>
 
 <!-- ============================================ -->
@@ -99,20 +93,15 @@ class Francesco:
 
 ## 📌 Featured Projects
 
-<div align="center">
+### 🇮🇹 [django-istat-italian-places](https://github.com/FraCata00/django-istat-italian-places)
+[![PyPI](https://img.shields.io/pypi/v/django-istat-italian-places?style=flat-square&color=fabd2f)](https://pypi.org/project/django-istat-italian-places/)
+[![Stars](https://img.shields.io/github/stars/FraCata00/django-istat-italian-places?style=flat-square&color=fe8019)](https://github.com/FraCata00/django-istat-italian-places/stargazers)
 
-<a href="https://github.com/FraCata00/django-istat-italian-places">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FraCata00&repo=django-istat-italian-places&theme=gruvbox&hide_border=true&bg_color=282828&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2" alt="django-istat-italian-places" />
-</a>
-<a href="https://github.com/FraCata00/django-istat-deploy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FraCata00&repo=django-istat-deploy&theme=gruvbox&hide_border=true&bg_color=282828&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2" alt="django-istat-deploy" />
-</a>
+A plug-and-play Django app exposing official **ISTAT** geographic data (Regions, Provinces, Cities) as structured models, ready for REST. Published on **PyPI**.
 
-</div>
+### 🚀 [django-istat-deploy](https://github.com/FraCata00/django-istat-deploy)
 
-> 🇮🇹 **django-istat-italian-places** — A plug-and-play Django app exposing official **ISTAT** geographic data (Regions, Provinces, Cities) as structured models, ready for REST. Published on **PyPI**.
->
-> 🚀 **django-istat-deploy** — A public REST API wrapping the package above, deployed on **Koyeb** for live querying of Italian *comuni · province · regioni*.
+A public REST API wrapping the package above, deployed on **Koyeb** for live querying of Italian *comuni · province · regioni*.
 
 <!-- ============================================ -->
 <!--                   SNAKE                      -->
