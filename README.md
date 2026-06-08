@@ -11,7 +11,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/francesco-cataldo/"><img src="https://img.shields.io/badge/LinkedIn-Francesco%20Cataldo-458588?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 &nbsp;
-<a href="https://fracatadev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-fracatadev-98971a?style=flat-square&logo=netlify&logoColor=white" alt="portfolio"/></a>
+<a href="https://fracata00.github.io"><img src="https://img.shields.io/badge/Portfolio-fracata00-98971a?style=flat-square&logo=netlify&logoColor=white" alt="portfolio"/></a>
 </div>
 
 <!-- ============================================ -->
